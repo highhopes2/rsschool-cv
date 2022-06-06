@@ -3,7 +3,7 @@
 ## Contacts
 **Mobile/WhatsApp:** +49 1523 6939846  
 **E-mail:** jen.rosetal@gmail.com  
-**GitHub:** @highhopes2  
+**GitHub:** [@highhopes2](https://github.com/highhopes2)  
 **Location:** Lisbon, Portugal  
 
 ****
@@ -76,14 +76,14 @@ Supporting organisation **"Страна неравнодушных людей"**
 **Masters degree**, Journalism
 
 ### *Courses*
-* *Netology.ru*, "Basics HTML и CSS"
-* *Netology.ru*, "Python for beginners"
-* *English Yo*, Boost english course
-* Discovering *htmlbook.ru* and *HTML Academy*
+* [*Netology.ru*](https://netology.ru/), "Basics HTML и CSS"
+* [*Netology.ru*](https://netology.ru/), "Python for beginners"
+* [*English Yo*](https://englishyopta.com/), Boost english course
+* Discovering [*htmlbook.ru*](http://htmlbook.ru/) and [*HTML Academy*](https://htmlacademy.ru/)
 
 ### *Languages*
 *Russian* - native  
-*English* - upper-intermediate (approved in personal testing by English Yo) / advanced (approved by Skyeng)  
+*English* - upper-intermediate (approved in personal testing by English Yo) / advanced (approved by [Skyeng](https://magazine.skyeng.ru/englishlevel-adult/?from=main_new_menu&_gl=1*1xkp5cw*_ga*MTY2ODI5MDMwNi4xNjU0NTQxODA4*_ga_03EGKN82H3*MTY1NDU0MTgwOC4xLjAuMTY1NDU0MTgwOC42MA..*_ga_5DWC4JK87M*MTY1NDU0MTgwOC4xLjAuMTY1NDU0MTgwOC4w&_ga=2.250648710.1879194402.1654541808-1668290306.1654541808))  
 ![Skyeng]()
 
 ****
