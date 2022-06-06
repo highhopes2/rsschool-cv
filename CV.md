@@ -84,6 +84,6 @@ Supporting organisation **"Страна неравнодушных людей"**
 ### *Languages*
 *Russian* - native  
 *English* - upper-intermediate (approved in personal testing by English Yo) / advanced (approved by [Skyeng](https://magazine.skyeng.ru/englishlevel-adult/?from=main_new_menu&_gl=1*1xkp5cw*_ga*MTY2ODI5MDMwNi4xNjU0NTQxODA4*_ga_03EGKN82H3*MTY1NDU0MTgwOC4xLjAuMTY1NDU0MTgwOC42MA..*_ga_5DWC4JK87M*MTY1NDU0MTgwOC4xLjAuMTY1NDU0MTgwOC4w&_ga=2.250648710.1879194402.1654541808-1668290306.1654541808))  
-![Skyeng]()
+![Skyeng](https://raw.githubusercontent.com/highhopes2/rsschool-cv/30613feb26fcb89cd3d096d036247b9d6d2219af/1.png)
 
 ****
