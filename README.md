@@ -1,1 +1,1 @@
-# [rsschool-cv](https://highhopes2.github.io/rsschool-cv/CV)
+# [rsschool-cv](https://highhopes2.github.io/rsschool-cv/cv)
