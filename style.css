@@ -114,16 +114,6 @@ code {
 	margin-left: 1em;
 }
 
-.code_text {
-	text-align: left;
-	font-size: 90%; 
-	text-indent: 0em;
-	margin-top: 0em;
-    margin-bottom: 0em;
-    padding: 0.5em;
-    background-color: #f3c1bd;
-}
-
 .contacts_text {
 	text-align: left;
 	font-size: 90%; 
@@ -135,7 +125,17 @@ code {
 /* Стили для блоков */	
 * {
     box-sizing: border-box;
-  }
+}
+
+.code_text {
+	text-align: left;
+	font-size: 90%; 
+	text-indent: 0em;
+	margin-top: 0em;
+    margin-bottom: 0em;
+    padding: 0.5em;
+    background-color: #f3c1bd;
+}
 
 .super_a {
     background-color: #e1e1e1;
